@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Header = props => (
   <nav className="navbar navbar-expand-sm navbar-dark bg-danger mb-3 py-0">
     <div className="container">
-      <a href="/" className="navbar-brand">
+      <a href="https://devabas.github.io/contact-manager/" className="navbar-brand">
         {props.branding}
       </a>
       <div>
